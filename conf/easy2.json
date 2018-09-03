@@ -7,7 +7,7 @@
 			"limit":8,
 			"interval":60,
 			"showTime":5,
-			"skipDelay":3,
+			"skipDelay":0,
             "adSources": [	
 				{
                     "adSourceName": "admob",
@@ -40,7 +40,7 @@
             "adStatus":1,
 			"showTime":5,
 			"interval":60,
-			"skipDelay":3,
+			"skipDelay":0,
             "adSources": [ 
 				{
                     "adSourceName": "admob",
