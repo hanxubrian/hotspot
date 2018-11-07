@@ -3,7 +3,7 @@
     "ads":[
 		{	
 			"adPlaceID":"workout_start",
-            "adStatus": 1,
+            "adStatus": 0,
             "priorMode": 0,
             "cacheMode": 0,
 			"cacheCount":0,
@@ -43,7 +43,7 @@
         },
 		{
 			"adPlaceID":"workout_pause", 
-            "adStatus": 1,
+            "adStatus": 0,
             "priorMode": 0,
             "cacheMode": 0,
 			"cacheCount":0,
@@ -77,7 +77,7 @@
         },
 		{	
 			"adPlaceID":"workout_stop",
-            "adStatus": 1,
+            "adStatus": 0,
             "priorMode": 0,
             "cacheMode": 0,
 			"cacheCount":0,
@@ -117,7 +117,7 @@
         },
 		{	
 			"adPlaceID":"workout_exit",
-            "adStatus": 1,
+            "adStatus": 0,
             "priorMode": 0,
             "cacheMode": 0,
 			"cacheCount":0,
