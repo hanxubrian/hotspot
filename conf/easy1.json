@@ -7,7 +7,7 @@
 			"limit":8,
 			"interval":60,
 			"showTime":5,
-			"skipDelay":0,
+			"skipDelay":2,
             "adSources": [	
 				{
                     "adSourceName": "admob",
@@ -18,13 +18,19 @@
 				{
                     "adSourceName": "admob",
                     "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-7107786566814991/8873458485",
+                    "adPlaceID": "ca-app-pub-7107786566814991/7440056881",
                     "adStatus":1
                 },
 				{
-                    "adSourceName": "fb",
-                    "adFormatType": "int",
-                    "adPlaceID": "300775493666574_464117167332405",
+                    "adSourceName": "admob",
+                    "adFormatType": "adv_nav",
+                    "adPlaceID": "ca-app-pub-7107786566814991/3444971558",
+                    "adStatus":1
+                },
+				{
+                    "adSourceName": "admob",
+                    "adFormatType": "adv_nav",
+                    "adPlaceID": "ca-app-pub-7107786566814991/8873458485",
                     "adStatus":1
                 },
 				{
@@ -40,8 +46,20 @@
             "adStatus":1,
 			"showTime":5,
 			"interval":60,
-			"skipDelay":0,
+			"skipDelay":2,
             "adSources": [ 
+				{
+                    "adSourceName": "admob",
+                    "adFormatType": "adv_nav",
+                    "adPlaceID": "ca-app-pub-7107786566814991/6949102291",
+                    "adStatus":1
+                },
+				{
+                    "adSourceName": "admob",
+                    "adFormatType": "adv_nav",
+                    "adPlaceID": "ca-app-pub-7107786566814991/1104204084",
+                    "adStatus":1
+                },
 				{
                     "adSourceName": "admob",
                     "adFormatType": "adv_nav",
